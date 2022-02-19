@@ -1,0 +1,6 @@
+-cp src
+-lib heaps
+#-lib hlsdl
+#-hl hlout\flappycube2dgame.hl
+-js jsout\flappycube2dgame.js
+-main FlappyCube2dGame
