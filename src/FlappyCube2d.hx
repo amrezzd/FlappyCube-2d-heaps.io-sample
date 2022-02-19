@@ -1,4 +1,3 @@
-import hxd.Timer;
 import h2d.Graphics;
 
 class FlappyCube2d extends h2d.Graphics {
